@@ -1,4 +1,4 @@
-# Barbie Api
+# Barbie API
 
 This is a simple Barbie Movie API I created for practice. It shows Barbie movies, when they were released, what series they were a part of, who plays Barbie, and if I personally own the VHS/DVD.
 
